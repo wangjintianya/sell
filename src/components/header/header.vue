@@ -1,12 +1,12 @@
 <template>
-  <div id="goods">
-    aaaaaaaaaaaaa
+  <div>
+    header vue
   </div>
 </template>
 
 <script>
 export default {
-  name: 'Goods'
+
 }
 </script>
 
